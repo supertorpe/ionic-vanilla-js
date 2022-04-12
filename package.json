@@ -1,0 +1,14 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@ionic/core": "^6.0.16"
+  },
+  "devDependencies": {
+    "vite": "^2.9.1"
+  }
+}
