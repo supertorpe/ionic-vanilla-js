@@ -6,9 +6,9 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@ionic/core": "^6.0.16"
+    "@ionic/core": "^6.6.1"
   },
   "devDependencies": {
-    "vite": "^2.9.1"
+    "vite": "^4.1.4"
   }
 }
